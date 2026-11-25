@@ -196,7 +196,39 @@ On the first launch, the application will prompt you to create the initial admin
 
 ### **Application Screenshots**
 
-Screenshots demonstrating the application’s interface and functionality will be available in the screenshots/ folder.
+\### Login Screen
+
+!\[Login Screen](screenshots/login-screen.png)
+
+
+
+\### Admin Dashboard
+
+!\[Admin Dashboard](screenshots/admin-dashboard.png)
+
+
+
+\### Technician Dashboard
+
+!\[Technician Dashboard](screenshots/technician-dashboard.png)
+
+
+
+\### Create Ticket Form
+
+!\[Create Ticket Form](screenshots/create-ticket-form.png)
+
+
+
+\### Register User Form
+
+!\[Register User Form](screenshots/register-user-form.png)
+
+
+
+\### Ticket Report
+
+!\[Ticket Report](screenshots/ticket-report.png)
 
 
 
@@ -234,6 +266,4 @@ Potential future enhancements include:
 ### **Author**
 
 Developed as a personal software development portfolio project to demonstrate practical skills in C#, database management and application development by ***Lindokuhle Nkosinathi Nkosi***.
-
-
 
