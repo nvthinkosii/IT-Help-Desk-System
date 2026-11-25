@@ -196,39 +196,53 @@ On the first launch, the application will prompt you to create the initial admin
 
 ### **Application Screenshots**
 
+
+
 \### Login Screen
 
-!\[Login Screen](screenshots/login-screen.png)
+
+
+!\[Login Screen](Screenshots/login-screen.png)
 
 
 
 \### Admin Dashboard
 
-!\[Admin Dashboard](screenshots/admin-dashboard.png)
+
+
+!\[Admin Dashboard](Screenshots/admin-dashboard.png)
 
 
 
 \### Technician Dashboard
 
-!\[Technician Dashboard](screenshots/technician-dashboard.png)
+
+
+!\[Technician Dashboard](Screenshots/technician-dashboard.png)
 
 
 
 \### Create Ticket Form
 
-!\[Create Ticket Form](screenshots/create-ticket-form.png)
+
+
+!\[Create Ticket Form](Screenshots/create-ticket-form.png)
 
 
 
 \### Register User Form
 
-!\[Register User Form](screenshots/register-user-form.png)
+
+
+!\[Register User Form](Screenshots/register-user-form.png)
 
 
 
 \### Ticket Report
 
-!\[Ticket Report](screenshots/ticket-report.png)
+
+
+!\[Ticket Report](Screenshots/ticket-report.png)
 
 
 
