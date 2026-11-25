@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+# Build output
+bin/
+obj/
+# IDE files
+.idea/
+# Operating system files
+.DS_Store
+Thumbs.db
+# Local configuration and secrets
+.env
+appsettings.Local.json
